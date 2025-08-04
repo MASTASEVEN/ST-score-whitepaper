@@ -10,7 +10,7 @@ This repository contains the public draft of the white paper:
 
 ## ✍️ Author
 
-- **Name:** KIM MIN SIK (JENICK KIM)  
+- **Name:** JENICK KIM  
 - **Affiliation:** Independent Researcher at ARKORE  
 - **Email:** jenick@lxdcore.com  
 - **Version:** 0.9 – Draft  
